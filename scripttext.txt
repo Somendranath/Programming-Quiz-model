@@ -48,6 +48,9 @@ break
 case"5":
 screen.value="27%2 is \n A)0 \n b)6 \n c)2 \n d)1"
 break
+case"0":
+screen.value="answered already"
+break
 }
 
 }
